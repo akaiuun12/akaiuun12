@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 Learning & Development
+- 5-Day AI Agents Intensive Course with Google (2025.11)
