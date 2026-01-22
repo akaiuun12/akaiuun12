@@ -52,11 +52,6 @@
 * **Solution**: Architected a multi-stage pipeline: **YOLO v11** for text detection, **manga-ocr** for text extraction, and **LaMa** for seamless inpainting.
 * **Impact**: Delivered high-quality automated translations while maintaining image consistency; recognized as a **TOP 3 project**.
 
-### **Databook Red** - Tech Blog Platform
-* Modern blog platform built with React, TypeScript, and Vite
-* Features markdown rendering, syntax highlighting, and mathematical equation support
-* [Live Demo](https://databook-red.netlify.app) | [GitHub](https://github.com/akaiuun12/databook-red)
-
 ---
 
 ## 🏅 Kaggle Competitions
