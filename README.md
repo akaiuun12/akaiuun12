@@ -31,15 +31,7 @@
 
 ### **Woori Card** | Data Analyst (Jan 2023 – Present)
 
-**Data Business Department** (2023)
-* **Data Product Development**: Architected and developed commercial datasets from large-scale financial data, applying Python and SQL to transform raw transaction data into structured, marketable data products.
-* **Big Data Analytics**: Processed and analyzed massive structured datasets using **Python, SQL, Hadoop, and Impala** to extract meaningful business insights from millions of member records.
-
-**Marketing Strategy Department** (2024)
-* **Multi-KPI Analytics & Reporting**: Managed and analyzed multiple key performance indicators across marketing campaigns, developing automated reporting systems to track campaign effectiveness and business impact.
-* **Statistical Analysis**: Applied statistical testing methodologies from my academic background to validate marketing strategies and measure statistical significance of campaign results.
-
-**Marketing Team 1 - CRM Analytics** (2025 – Present)
+**Marketing Team 1 - CRM Analytics**
 * **Campaign Performance Analysis**: Conduct data analysis for active CRM marketing campaigns, identifying customer segments, measuring campaign effectiveness, and providing data-driven recommendations.
 * **Data-Driven Marketing Insights**: Bridge the gap between marketing strategy and data analytics, translating analytical findings into actionable marketing initiatives.
 
@@ -58,7 +50,7 @@
 
 | Competition | Type | Rank | Techniques | Score |
 |:---|:---|:---:|:---|:---:|
-| [Playground Series S6E1](https://www.kaggle.com/competitions/playground-series-s6e1) | Regression | **#254 / 2,876**<br>(**Top 8.83%**) | RidgeCV Stacking<br>(RF, XGB, LGBM, CatBoost, TabNet) | 8.56368 |
+| [Playground Series S6E1](https://www.kaggle.com/competitions/playground-series-s6e1) | Regression | **#500 / 4,317**<br>(**Top 12%**) | RidgeCV Stacking<br>(RF, XGB, LGBM, CatBoost, TabNet) | 8.60407 |
 
 ---
 
