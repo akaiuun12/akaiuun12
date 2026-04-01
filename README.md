@@ -20,8 +20,6 @@
 > "I translate complex human behavior into actionable data strategies."
 
 * **Psychology-Driven Data Analytics**: I hold a Master's degree in Psychology (Cognitive Neuroscience) from Yonsei University, where I spent 2.5 years applying Python and statistical testing to experimental research. My academic foundation enables me to bridge human behavior insights with rigorous data analysis.
-* **FinTech Data Professional**: Currently a **Data Analyst** at **Woori Card**, where I transform large-scale financial data into strategic insights for marketing and business decisions. I specialize in CRM analytics, campaign performance analysis, and KPI management across 12 million member datasets.
-* **Versatile Data Experience**: With hands-on experience spanning data product development, marketing analytics, and statistical analysis, I bring a unique perspective that combines technical data skills with business acumen.
 * **AI Innovator**: Recently awarded **TOP 3 Excellence Case** in the NIPA-Google ML Bootcamp (2025) for my work in Computer Vision and Generative AI, demonstrating my commitment to advancing technical skills beyond my current role.
 * **Kaggle Enthusiast**: Actively participating in Kaggle competitions, achieving **Top 11.68%** in recent Playground competitions, continuously sharpening my data science capabilities.
 
