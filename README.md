@@ -45,11 +45,11 @@
 ---
 
 ## 🏅 Kaggle Competitions
-
 | Competition | Type | Rank | Techniques | Score |
 |:---|:---|:---:|:---|:---:|
+ [March ML Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026) | Classification | 🥉**#285 / 3,485**<br>(**Top 8%**, Ongoing) | LR + Residual Stacking<br>(XGB, LGBM, CatBoost)<br>+ Spline Calibration | 0.1207185 |
 | [Playground Series S6E1](https://www.kaggle.com/competitions/playground-series-s6e1) | Regression | **#500 / 4,317**<br>(**Top 12%**) | RidgeCV Stacking<br>(RF, XGB, LGBM, CatBoost, TabNet) | 8.60407 |
-
+|
 ---
 
 ## 🛠 Tech Stack
