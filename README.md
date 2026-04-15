@@ -52,20 +52,3 @@ Solved hallucination and inconsistency issues common in generative image-to-imag
 | **Big Data** | Hadoop, Impala, Spark |
 
 ---
-
-## 🏅 Certificates
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PCSQL-Level%204-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-Developer-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Big%20Data-Analysis%20Engineer-FF6B6B?style=for-the-badge&logo=apache-spark&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLD-Developer-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/ADsP-Advanced%20Data%20Analytics-9B59B6?style=for-the-badge">
-</p>
-
----
-
-## 🌍 Contact
-
-* **Email**: akaiuun12@gmail.com  
-* **English**: TOEIC 985 / Speaking Lv.7 &nbsp;|&nbsp; **Japanese**: JLPT N1 &nbsp;|&nbsp; **Korean**: Native
