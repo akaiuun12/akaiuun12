@@ -1,54 +1,26 @@
-# Wonhee Yoon (Akai Red) 👋
+# Wonhee Yoon · 윤원희
 
-### Data Analyst Bridging Human Behavior and Data-driven Insights
+**Data Scientist / Data Analyst** - Fintech 3+ yrs, M.A. Cognitive Psychology
 
-<p align="center">
-  <a href="https://www.kaggle.com/akaired" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="height: 28px;">
-  </a>
-  <a href="https://leetcode.com/akaiuun12" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 28px;">
-  </a>
-  <a href="https://databook-red.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Blog (KR)-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" style="height: 28px;">
-  </a>
-</p>
+I build predictive models that turn user behavior into business decisions.
 
----
+## What I work on
 
-## 👨‍💻 About Me
+- 🏦 **Fintech analytics**  — 200M+ monthly rows in production (Impala/Hadoop), CRM target marketing, sales forecasting
+- 🤖 **ML competitions**    — Kaggle Bronze (Top 9%) on NCAA outcome prediction
+- 🧠 **Experiment design**  — PsychoPy-based online cognitive experiments (M.A. thesis)
 
-* **Psychology + Data**: M.S. in Psychology (Cognitive Neuroscience) from Yonsei University. 2.5 years of Python-based experimental research gives me a behavioral science lens on data problems.
-* **Industry**: Data Analyst at **Woori Card** (CRM Analytics) since Jan 2023 — customer segmentation, campaign measurement, and marketing insights.
-* **Competitions**: Kaggle enthusiast; recently earned a **Bronze Medal** in March ML Mania 2026. Also awarded **TOP 3** in NIPA-Google ML Bootcamp 2025 for a Computer Vision pipeline.
+## Tech
 
----
+`Python` · `SQL (Oracle, Impala, Hadoop)` · `scikit-learn` · `XGB / LGBM / CatBoost` · `TensorFlow`
 
-## 🏅 Kaggle Competitions
+## Highlights
 
-| Competition | Type | Rank | Techniques | Score |
-|:---|:---|:---:|:---|:---:|
-| [March ML Mania 2026](https://www.kaggle.com/competitions/march-machine-learning-mania-2026) | Classification | **🥉 #309 / 3,462 (Top 9%)** | LR + Residual Stacking (XGB)<br>+ Spline Calibration | 0.1272 |
-| [Playground Series S6E1](https://www.kaggle.com/competitions/playground-series-s6e1) | Regression | **#500 / 4,317 (Top 12%)** | RidgeCV Stacking<br>(RF, XGB, LGBM, CatBoost, TabNet) | 8.604 |
+- 🥉 [Kaggle March ML Mania 2026 — Bronze](https://github.com/akaiuun12/march-ml-mania-2026) (309/3,462, Brier 0.1271)
+- 🏆 NIPA-Google Korea ML Bootcamp — Top 3 (Manga Translation Pipeline)
+- 📜 TensorFlow Developer Certificate · ADsP · SQLD 
 
----
-
-## 🚀 Featured Project
-
-### **Automated AI Manga Translator** — NIPA-Google ML Bootcamp (TOP 3)
-Multi-stage pipeline: **YOLO v11** (text detection) → **manga-ocr** (OCR) → **LaMa** (inpainting).  
-Solved hallucination and inconsistency issues common in generative image-to-image translation.
-
----
-
-## 🛠 Tech Stack
-
-| Category | Skills |
-|:---|:---|
-| **Languages** | Python, SQL (Impala, Oracle), R, TypeScript |
-| **ML & Stats** | Scikit-learn, XGBoost, LightGBM, CatBoost, TabNet |
-| **Deep Learning** | TensorFlow, Keras, YOLO, LaMa, LLMs |
-| **Web** | React, TypeScript, Vite, Tailwind CSS |
-| **Big Data** | Hadoop, Impala, Spark |
-
----
+## Learnings
+- 5-Day AI Agents Intensive Course with Google (Nov 2025)
+- NIPA x Google ML Bootcamp (Sep 2025 – Nov 2025)
+- Google Japan Machine Learning Bootcamp (Jul 2022 – Nov 2022)
